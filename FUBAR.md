@@ -1,6 +1,6 @@
 # Team Name: Hephaestus
 
-## Team members:
+
 1. Zaid Shishani (Team Leader)
 2. Mohammad Abdul Ghafour 
 
@@ -12,6 +12,10 @@
 ## Orgnization Name : SAD.co
 
 
+## add footer and headr
+saif saeed  
+
 ## Create nav in main and create h1. 
 
 **Done by Ahmad Abulaban**
+
